@@ -1,0 +1,27 @@
+#questions{
+    border: 2px solid;
+    border-radius: 20px;
+    height: 600px;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 21%;
+    position: relative;
+    padding-left: 10%;
+   
+    background-color: rgb(126, 83, 143); 
+}
+
+.question-container{
+    margin-top: 10%;
+    margin-left: 18%;
+}
+
+#submit-question{
+    background-color: tomato;
+    position: relative;
+    right: 25%;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+.list-group{
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.list-group-item{
+    width: 30%;
+    background-color:rgb(126, 83, 143);
+}
+
+#header{
+    margin-top: 4%;
+    margin-bottom: -4%;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}

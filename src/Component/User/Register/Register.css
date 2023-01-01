@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(106, 125, 190);
+}
+
+h3{
+    color: aliceblue;
+    margin-top: -10%;
+    margin-bottom: 10%;
+    margin-right: 50%;
+    position: relative;
+    top: -20%;
+    right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+#register {
+    border: 2px solid;
+    border-radius: 20px;
+    height: 600px;
+    width: 40%;
+    position: relative;
+    padding-left: 5%;
+    left: 30%;
+    top: 2cm;
+    background-color: rgb(126, 83, 143);
+}
+
+.Container{
+    position: relative;
+    top: 50%;
+    padding-left: 25%;
+}
+
+#Submit {
+    background-color: tomato;
+    position: relative;
+    right: 15%;
+}
+
+
+.form-control::content {
+    color: black;
+}
+
+
+
+.Error{
+    color: whitesmoke;
+    margin-left: -45%;
+    position: relative;
+    top: -40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
