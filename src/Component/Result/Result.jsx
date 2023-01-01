@@ -57,6 +57,7 @@ const Result = () =>{
     return (
         <div>
             <h1>D3 JS Component</h1>
+            <p>Demo Graph</p>
             <svg ref={svgRef}></svg>
         </div>
     )
