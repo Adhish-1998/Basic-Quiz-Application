@@ -39,7 +39,7 @@ Clone the project
 Front-end is pushed in Frontend Branch
 
 ```bash
-  cd Basic-Quiz-Application
+  cd ./Basic-Quiz-Application
   git checkout frontend
   npm install
 ```
@@ -47,7 +47,7 @@ Front-end is pushed in Frontend Branch
 Back-end is pushed in Backend Branch
 
 ```bash
-  cd Basic-Quiz-Application
+  cd ./Basic-Quiz-Application
   git checkout backend
   npm install
 ```
