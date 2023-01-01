@@ -3,9 +3,9 @@
 This is an online quiz organizing website project, developed using Nodejs's web framework Express.
 For front-end, I have used React, and designing front-end, I have used Twitter's front-end library Bootstrap. And I also use D3 Js for Resultant Graph of User's Score.
 
-`##`Current Features
+## Current Features
 
-`###`Site access features:
+### Site access features:
 
    * User must be logged in to access the Quiz.
    * For signup user is required to give full name, e-mail and password.
