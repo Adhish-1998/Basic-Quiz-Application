@@ -1,4 +1,4 @@
-`#` Basic-Quiz-Application
+# Basic-Quiz-Application
 
 This is an online quiz organizing website project, developed using Nodejs's web framework Express.
 For front-end, I have used React, and designing front-end, I have used Twitter's front-end library Bootstrap. And I also use D3 Js for Resultant Graph of User's Score.
