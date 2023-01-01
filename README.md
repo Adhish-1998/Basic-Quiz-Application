@@ -33,7 +33,7 @@ For front-end, I have used React, and designing front-end, I have used Twitter's
 Clone the project
 
 ```bash
-  git clone https://github.com/Aaditya1978/Quiz-App-MERN
+  git clone https://github.com/Adhish-1998/Basic-Quiz-Application.git
 ```
 
 Front-end is pushed in Frontend Branch
