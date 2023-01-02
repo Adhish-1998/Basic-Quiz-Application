@@ -19,6 +19,6 @@ mongoose.connect(process.env.CONNECTION_STRING, { useNewUrlParser: true })
     .catch((err) => console.log(err));
 
 
-app.listen(process.env.PORT, function () {
-    console.log("app is running on the port", process.env.PORT)
+app.listen(process.env.PORT || 5000, function () {
+    console.log("app is running on the port", process.env.PORT || 5000)
 });
