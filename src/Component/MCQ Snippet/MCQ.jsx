@@ -10,7 +10,7 @@ const MCQ = () => {
     const [counter, setCounter] = useState(0)
     const [list, setList] = useState([])
     const [question, setQuestion] = useState(null)
-    const host = 'http://localhost:5000/questions'
+    const host = 'https://basic-quiz-application.vercel.app/questions'
 
     const getQuestions = async () =>{
         let result = await fetch(host, {

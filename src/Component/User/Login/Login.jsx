@@ -12,7 +12,7 @@ const Login = () => {
     const navigateToRegister = () => navigate('/signup')
 
     const handleSubmit = async() =>{
-        const host = 'http://localhost:5000/login'
+        const host = 'https://basic-quiz-application.vercel.app/login'
 
         let result = await fetch(host,{
             method : 'POST',

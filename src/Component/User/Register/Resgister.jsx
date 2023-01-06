@@ -13,7 +13,7 @@ const Register = () => {
 
     const handleSubmit = async () =>{
 
-        const host = 'http://localhost:5000/signup'
+        const host = 'https://basic-quiz-application.vercel.app/signup'
 
         if(password !== confirmPassword) setErrorMessage('Password Does not Match !!!')
         else if(name === '' || email === '' ||  password === '' ||  confirmPassword === '' ) setErrorMessage('Enter Above Fields !!!')
